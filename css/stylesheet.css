@@ -16,13 +16,13 @@
 
 #top-list{
   float: right;
-  width: 400px;
+  width: 500px;
 }
 
 #content figure {
   float: right;
   max-width: 200px;
-  margin: 2px;
+  margin: 5px;
 }
 
 #content img {
@@ -67,9 +67,4 @@
 
 #tabright {
   float: right;
-}
-
-#topbanner {
-  background-image: url(img/graytile.png);
-  background-repeat: repeat-x;
 }
