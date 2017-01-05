@@ -1,0 +1,19 @@
+#left-menu {
+  float:left;
+  position: fixed;
+  width: 200px;
+  display: block;
+  margin: 10px;
+  padding: 0px:
+}
+
+#content {
+  float: left;
+  margin: 10px;
+  padding-left: 200px;
+}
+
+#top-list{
+  float: right;
+  width: 400px;
+}
