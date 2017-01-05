@@ -20,3 +20,20 @@
   top: 20px;
   right: 20px;
 }
+
+#content img {
+  float: right;
+  max-width: 200px;
+}
+
+.panel-success .panel-body {
+  background-color: #F3FFF8;
+}
+
+.panel-info .panel-body {
+  background-color: #F3F9FF;
+}
+
+.panel-danger .panel-body {
+  background-color: #FFF3F3;
+}
