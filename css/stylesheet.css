@@ -19,8 +19,13 @@
   width: 400px;
 }
 
-#content img {
+#content figure {
   float: right;
+  max-width: 200px;
+  margin: 2px;
+}
+
+#content img {
   max-width: 200px;
 }
 
