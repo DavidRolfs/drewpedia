@@ -41,6 +41,14 @@
   background-color: #FFF3F3;
 }
 
+.panel-purple .panel-heading {
+  background-color: #F3DDFD;
+}
+
+.panel-purple .panel-body {
+  background-color: #FBF3FF;
+}
+
 #login {
   float: right;
   list-style-type: none;
